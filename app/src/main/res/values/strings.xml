@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bibliotech</string>
+    <string name="title_main">Bem-vindo ao Bibliotech</string>
+    <string name="btn_view_books">Ver Livros</string>
+    <string name="title_book_list">Minha Lista de Livros</string>
+    <string name="btn_add_book">Adicionar Novo Livro</string>
+    <string name="title_add_book">Adicionar Livro</string>
+    <string name="hint_book_name">Nome do Livro</string>
+    <string name="btn_add">Adicionar</string>
+</resources>

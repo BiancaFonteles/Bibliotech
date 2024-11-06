@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bibliotech</string>
+    <string name="title_main">Welcome to Bibliotech</string>
+    <string name="btn_view_books">View Books</string>
+    <string name="title_book_list">My Book List</string>
+    <string name="btn_add_book">Add New Book</string>
+    <string name="title_add_book">Add Book</string>
+    <string name="hint_book_name">Book Name</string>
+    <string name="btn_add">Add</string>
+</resources>
